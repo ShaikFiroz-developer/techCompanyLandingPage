@@ -1,0 +1,6 @@
+.horizontalscroll {
+  overflow: hidden;
+}
+.horizontalscroll {
+  scrollbar-width: 0px;
+}
